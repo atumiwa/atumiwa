@@ -28,5 +28,5 @@ function startpost(json){
 }
 
 function finished(){
-  document.write('<br /><br /><a href="http://www.tirailangit.com/2016/12/cara-membuat-daftar-isi-per-kategori-di.html" style="font-size: 10 px; text-decoration:none; color: #616469;" target="_blank" title="Cara Membuat Sitemap Per-Kategori Di Blogger">Sitemap</a>');
+  document.write('<br /><br /><a href="http://www.cerita-silat.net" style="font-size: 10 px; text-decoration:none; color: #616469;" target="_blank" title="Sitemap Wuxia Indonesia">Sitemap Wuxia Indonesia</a>');
 }
