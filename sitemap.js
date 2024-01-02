@@ -1,5 +1,5 @@
 /* Javascript untuk membuat sitemap otomatis di blogger 
-by www.tirailangit.com */
+by www.cerita-silat.net */
 
 var numposts = 100;
 var standardstyling = true;
